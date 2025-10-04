@@ -13,6 +13,11 @@ kemempuan bekerja sama dengan tim
 komunikasi yang efektif
 etika yang kuat
 disiplin dan mampu bertanggung jawab
+# skill digital
+mampu mengoperasikan
 adobe ilustration
+canva
+word
 # contac
 ig @fipcorn
+email fildaprawita188@gmail.com
