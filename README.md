@@ -18,9 +18,8 @@ mampu mengoperasikan
 adobe ilustration
 canva
 word
-# pengalaman berorganisasi
-pramuka
-pmr
+# tecnologi used
+html
 posyandu remaja
 # contac
 ig @fipcorn
