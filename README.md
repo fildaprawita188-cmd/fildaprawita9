@@ -18,6 +18,10 @@ mampu mengoperasikan
 adobe ilustration
 canva
 word
+# pengalaman berorganisasi
+pramuka
+pmr
+posyandu remaja
 # contac
 ig @fipcorn
 email fildaprawita188@gmail.com
