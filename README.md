@@ -20,6 +20,7 @@ canva
 word
 # tecnologi used
 html
+css
 # contac
 ig @fipcorn
 email fildaprawita188@gmail.com
