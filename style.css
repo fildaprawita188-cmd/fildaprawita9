@@ -1,0 +1,29 @@
+/* Styling */
+
+.layout-header {
+    margin: 3rem;
+    display: flex;
+    justify-content: center;
+}
+.layout-header {
+    margin: 3rem;
+    display: flex;
+    justify-content: center;
+}
+.navigation {
+    background-color: fuchsia;
+    border-radius: 2rem;
+    max-width: 30rem;
+}
+
+.navigation ul {
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+    padding: 1rem;
+    list-style-type: none;
+}
+.navigation ul li a {
+    font-weight: 700;
+    text-decoration-line: none;
+}
