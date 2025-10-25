@@ -10,6 +10,11 @@
     display: flex;
     justify-content: center;
 }
+/* BODY */
+body {
+    background-color: mediumpurple;
+    color: black;
+}
 .navigation {
     background-color: fuchsia;
     border-radius: 2rem;
@@ -26,4 +31,5 @@
 .navigation ul li a {
     font-weight: 700;
     text-decoration-line: none;
+
 }
