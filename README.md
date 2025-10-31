@@ -1,5 +1,5 @@
 # fildaprawita9
-<img width="421" height="657" alt="Cuplikan layar 2025-10-31 092522" src="https://github.com/user-attachments/assets/b4968518-0837-480b-bb03-e9e65081c46f" />
+<img width="533" height="466" alt="Cuplikan layar 2025-10-31 103425" src="https://github.com/user-attachments/assets/c308627b-169b-46ab-b21b-af1ab78195ea" />
 
 # personal portofolio filda prawita
 > hello this is my personal portofolio filda prawita
