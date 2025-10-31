@@ -15,13 +15,13 @@ body {
     background-color: mediumpurple;
     color: black;
 }
-.navigation {
+nav {
     background-color: fuchsia;
     border-radius: 2rem;
     max-width: 30rem;
 }
 
-.navigation ul {
+nav ul {
     display: flex;
     flex-direction: row;
     gap: 2rem;
@@ -33,3 +33,4 @@ body {
     text-decoration-line: none;
 
 }
+
