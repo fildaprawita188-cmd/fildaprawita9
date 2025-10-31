@@ -16,7 +16,7 @@ body {
     color: black;
 }
 nav {
-    background-color: fuchsia;
+    background-color: mediumpurple;
     border-radius: 2rem;
     max-width: 30rem;
 }
@@ -33,4 +33,5 @@ nav ul {
     text-decoration-line: none;
 
 }
+
 
