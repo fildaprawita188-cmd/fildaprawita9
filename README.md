@@ -1,4 +1,6 @@
 # fildaprawita9
+<img width="421" height="657" alt="Cuplikan layar 2025-10-31 092522" src="https://github.com/user-attachments/assets/b4968518-0837-480b-bb03-e9e65081c46f" />
+
 # personal portofolio filda prawita
 > hello this is my personal portofolio filda prawita
 # about me
@@ -13,7 +15,6 @@ kemempuan bekerja sama dengan tim
 komunikasi yang efektif
 etika yang kuat
 disiplin dan mampu bertanggung jawab
-# skill digital
 mampu mengoperasikan
 adobe ilustration
 canva
