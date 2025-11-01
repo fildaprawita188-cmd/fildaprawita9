@@ -33,5 +33,18 @@ nav ul {
     text-decoration-line: none;
 
 }
+/* RESET */
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 60px;
+    bacground-color: mediumpurple;
+}
+body {
+    background-color: mediumpurple;
+    color: black;
+}
+
 
 
